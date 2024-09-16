@@ -18,10 +18,12 @@ The goal of this challenge is to code every day for 100 days. Through consistent
 
 | Day  | Date       | Challenge Summary                                       |
 |------|------------|---------------------------------------------------------|
-| Day 1| 2024-09-12 | Started with basic Python like Datatypes, Variable
+| Day 1| 2024-09-14 | Started with basic Python like Datatypes, Variable
 functions() e.g len(), input(), etc.                                           |
-| Day 2| YYYY-MM-DD | ...                                                      |
+| Day 2| 2024-09-15 | Learned Basic Operators, Type checking, Indexing,
+and F-strings in Pyhton.                                                       |
 | Day 3| YYYY-MM-DD | ...                                                      |
+
 
 *(I will update this log daily with each new challenge.)*
 
