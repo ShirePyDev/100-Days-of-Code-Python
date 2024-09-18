@@ -19,10 +19,20 @@ The goal of this challenge is to code every day for 100 days. Through consistent
 | Day  | Date       | Challenge Summary                                       |
 |------|------------|---------------------------------------------------------|
 | Day 1| 2024-09-14 | Started with basic Python like Datatypes, Variable
-functions() e.g len(), input(), etc.                                           |
+functions() e.g len(), input(), etc.   
+
 | Day 2| 2024-09-15 | Learned Basic Operators, Type checking, Indexing,
-and F-strings in Pyhton.                                                       |
-| Day 3| YYYY-MM-DD | ...                                                      |
+and F-strings in Pyhton. 
+
+| Day 3| 2024-09-16 | Implemented if, elif, else statements and
+multiple if conditions with logical operators.
+
+| Day 4| 2024-09-17 |Learned and implemented Lists, Nested Lists,
+Random module and Explaining indexError.
+
+| Day 4| 2024-09-17 |Learned and implemented Lists, Nested Lists,
+Random module and Explaining indexError.
+
 
 
 *(I will update this log daily with each new challenge.)*
@@ -38,4 +48,12 @@ and F-strings in Pyhton.                                                       |
 ├── Day-02/
 │   └── main.py    # Code for day 2
 │
-└── ...
+|
+├── Day-03/
+│   └── Day-03_code    # Code for day 3
+│   └── Day-03_project # project for day 3 
+|
+└── Day-04/
+│   └── Day-04_code    # Code for day 4
+│   └── Day-04_project # project for day 4
+
