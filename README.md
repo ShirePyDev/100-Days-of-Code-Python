@@ -30,9 +30,6 @@ multiple if conditions with logical operators.
 | Day 4| 2024-09-17 |Learned and implemented Lists, Nested Lists,
 Random module and Explaining indexError.
 
-| Day 4| 2024-09-17 |Learned and implemented Lists, Nested Lists,
-Random module and Explaining indexError.
-
 
 
 *(I will update this log daily with each new challenge.)*
