@@ -30,6 +30,11 @@ multiple if conditions with logical operators.
 | Day 4| 2024-09-17 |Learned and implemented Lists, Nested Lists,
 Random module and Explaining indexError.
 
+| Day 5| 2024-09-18 |Implemented and learned: for loop, range()
+function, nested for loops, and using for loops with lists.
+
+| Day 6| 2024-09-20 |Learned and Implemented: Basic Function(),
+IndentedError and Function with loops.
 
 
 *(I will update this log daily with each new challenge.)*
@@ -45,7 +50,6 @@ Random module and Explaining indexError.
 ├── Day-02/
 │   └── main.py    # Code for day 2
 │
-|
 ├── Day-03/
 │   └── Day-03_code    # Code for day 3
 │   └── Day-03_project # project for day 3 
@@ -53,4 +57,12 @@ Random module and Explaining indexError.
 └── Day-04/
 │   └── Day-04_code    # Code for day 4
 │   └── Day-04_project # project for day 4
+
+└── Day-05/
+│   └── Day-05_code    # Code for day 5
+│   └── Day-05_project # project for day 5
+
+└── Day-06/
+│   └── Day-06_code    # Code for day 6
+│   └── Day-06_project # project for day 6
 
