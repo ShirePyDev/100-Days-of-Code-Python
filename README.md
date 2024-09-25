@@ -36,6 +36,11 @@ function, nested for loops, and using for loops with lists.
 | Day 6| 2024-09-20 |Learned and Implemented: Basic Function(),
 IndentedError and Function with loops.
 
+| Day 7| 2024-09-20 |Learned and Implemented: Building Hangman Game
+used the simple python code.
+
+| Day 8| 2024-09-20 |Learned and Solved: Hangman guessed.
+
 
 *(I will update this log daily with each new challenge.)*
 
