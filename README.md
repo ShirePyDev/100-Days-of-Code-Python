@@ -41,6 +41,10 @@ used the simple python code.
 
 | Day 8| 2024-09-20 |Learned and Solved: Hangman guessed.
 
+| Day 9| 2024-09-20 |Learned and Impelemented: Dictionaries, Nested and Secret Autects.
+
+| Day 10| 2024-09-20 |Learned and Impelemented: Functions Outputs.
+
 
 *(I will update this log daily with each new challenge.)*
 
