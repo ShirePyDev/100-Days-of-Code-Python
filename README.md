@@ -75,3 +75,7 @@ used the simple python code.
 │   └── Day-06_code    # Code for day 6
 │   └── Day-06_project # project for day 6
 
+└── Day-07/
+│   └── Day-07_Hangman-code    # Code for day 7
+
+
