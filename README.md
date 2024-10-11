@@ -39,12 +39,8 @@ IndentedError and Function with loops.
 | Day 7| 2024-09-20 |Learned and Implemented: Building Hangman Game
 used the simple python code.
 
-| Day 8| 2024-09-20 |Learned and Solved: Hangman guessed.
-
-| Day 9| 2024-09-20 |Learned and Impelemented: Dictionaries, Nested and Secret Autects.
-
-| Day 10| 2024-09-20 |Learned and Impelemented: Functions Outputs.
-
+| Day 8| 2024-010-10 |Implement Caesar cipher for encryption and
+decryption with input handling
 
 *(I will update this log daily with each new challenge.)*
 
@@ -77,5 +73,8 @@ used the simple python code.
 
 └── Day-07/
 │   └── Day-07_Hangman-code    # Code for day 7
+
+└── Day-08/
+│   └── Day-08_Caeser cipher Game    # Code for day 8
 
 
