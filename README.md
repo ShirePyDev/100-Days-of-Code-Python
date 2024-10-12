@@ -39,8 +39,12 @@ IndentedError and Function with loops.
 | Day 7| 2024-09-20 |Learned and Implemented: Building Hangman Game
 used the simple python code.
 
-| Day 8| 2024-010-11 |Enhance Caesar Cipher with Restart Option
+| Day 8| 2024-10-11 |Enhance Caesar Cipher with Restart Option
 and Input Validation
+
+| Day 9| 2024-10-12 |Learned Dictionary concepts: Implemented Dictionary,
+Nested Dictionary, and Dictionary Loop in today's code.
+
 
 *(I will update this log daily with each new challenge.)*
 
@@ -77,4 +81,6 @@ and Input Validation
 └── Day-08/
 │   └── Day-08_Caeser cipher Game    # Code for day 8
 
+└── Day-09/
+│   └── Day-09_Dictionaries    # Code for day 9
 
