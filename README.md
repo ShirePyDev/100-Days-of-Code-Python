@@ -39,8 +39,8 @@ IndentedError and Function with loops.
 | Day 7| 2024-09-20 |Learned and Implemented: Building Hangman Game
 used the simple python code.
 
-| Day 8| 2024-010-10 |Implement Caesar cipher for encryption and
-decryption with input handling
+| Day 8| 2024-010-11 |Enhance Caesar Cipher with Restart Option
+and Input Validation
 
 *(I will update this log daily with each new challenge.)*
 
