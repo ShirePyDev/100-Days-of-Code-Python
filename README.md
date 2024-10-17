@@ -45,6 +45,10 @@ and Input Validation
 | Day 9| 2024-10-12 |Learned Dictionary concepts: Implemented Dictionary,
 Nested Dictionary, and Dictionary Loop in today's code.
 
+| Day 10| 2024-10-17 |Implement feature to continue calculations with
+previous result; learning function added.
+
+
 
 *(I will update this log daily with each new challenge.)*
 
@@ -83,4 +87,9 @@ Nested Dictionary, and Dictionary Loop in today's code.
 
 └── Day-09/
 │   └── Day-09_Dictionaries    # Code for day 9
+
+└── Day-10/
+│   └── Day-10  #Functions,
+                #Multiple Return,
+                #Calculator Prfoject    # Code for day 10
 
